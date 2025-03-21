@@ -1,0 +1,268 @@
+Uri: https://builder-assets.unbounce.com/published-css/main-ebbfc5e.z.css
+File Name: C:\Downloaded Web Sites\sl.finclass.com\published-css\main-ebbfc5e.z.css
+Content Type: text/css
+
+Uri: https://builder-assets.unbounce.com/published-js/main.bundle-f4428e5.z.js
+File Name: C:\Downloaded Web Sites\sl.finclass.com\published-js\main.bundle-f4428e5.z.js
+Content Type: application/javascript
+
+Uri: https://cdn.timeprimo.com/privacy/finclass/primoprivacy.min.js
+File Name: C:\Downloaded Web Sites\sl.finclass.com\privacy\finclass\primoprivacy.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\sl.finclass.com\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/0f74aea0-anv0005-mockup-v1-desk_10000000ve0fp02d000028.png
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\0f74aea0-anv0005-mockup-v1-desk_10000000ve0fp02d000028.png
+Content Type: image/png
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/0f74aea0-anv0005-mockup-v1-desk_10000001050fk000000028.png
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\0f74aea0-anv0005-mockup-v1-desk_10000001050fk000000028.png
+Content Type: image/png
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/0f74aea0-anv0005-mockup-v1-desk_10j708c0go08c019000028.png
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\0f74aea0-anv0005-mockup-v1-desk_10j708c0go08c019000028.png
+Content Type: image/png
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/16fb97a6-f0145-6-junqueira_10000000b40li00000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\16fb97a6-f0145-6-junqueira_10000000b40li00000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/16fb97a6-f0145-6-junqueira_10000000b40n200000o01o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\16fb97a6-f0145-6-junqueira_10000000b40n200000o01o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/16fb97a6-f0145-6-junqueira_104b09h04b08c00000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\16fb97a6-f0145-6-junqueira_104b09h04b08c00000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/16fb97a6-f0145-6-junqueira_107d0g707d0fa00000g01o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\16fb97a6-f0145-6-junqueira_107d0g707d0fa00000g01o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/16fb97a6-f0145-6-junqueira_108m0iy08m0go00000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\16fb97a6-f0145-6-junqueira_108m0iy08m0go00000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/2110a9b4-mil-ao-milhao_100000000000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\2110a9b4-mil-ao-milhao_100000000000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/2110a9b4-mil-ao-milhao_108c04600000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\2110a9b4-mil-ao-milhao_108c04600000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/2110a9b4-mil-ao-milhao_10b405k00000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\2110a9b4-mil-ao-milhao_10b405k00000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/313df351-blackfriday-bonus-03_100000000000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\313df351-blackfriday-bonus-03_100000000000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/313df351-blackfriday-bonus-03_108c04600000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\313df351-blackfriday-bonus-03_108c04600000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/3ffb8dc3-anv0005-bonus-casa-v1-mobile_100000000000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\3ffb8dc3-anv0005-bonus-casa-v1-mobile_100000000000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/480985f2-f0145-5-lisboa_10000000b40li00000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\480985f2-f0145-5-lisboa_10000000b40li00000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/480985f2-f0145-5-lisboa_10000000b40n200000o01o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\480985f2-f0145-5-lisboa_10000000b40n200000o01o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/480985f2-f0145-5-lisboa_104b09h04b08c00000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\480985f2-f0145-5-lisboa_104b09h04b08c00000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/480985f2-f0145-5-lisboa_107d0g707d0fa00000g01o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\480985f2-f0145-5-lisboa_107d0g707d0fa00000g01o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/480985f2-f0145-5-lisboa_108m0iy08m0go00000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\480985f2-f0145-5-lisboa_108m0iy08m0go00000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/5067aad9-f0145-4-howard_10000000b40li00000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\5067aad9-f0145-4-howard_10000000b40li00000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/5067aad9-f0145-4-howard_10000000b40n200000o01o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\5067aad9-f0145-4-howard_10000000b40n200000o01o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/5067aad9-f0145-4-howard_104b09h04b08c00000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\5067aad9-f0145-4-howard_104b09h04b08c00000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/5067aad9-f0145-4-howard_107d0g707d0fa00000g01o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\5067aad9-f0145-4-howard_107d0g707d0fa00000g01o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/5067aad9-f0145-4-howard_108m0iy08m0go00000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\5067aad9-f0145-4-howard_108m0iy08m0go00000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/50e1ef62-blackfriday-bonus-08_100000000000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\50e1ef62-blackfriday-bonus-08_100000000000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/50e1ef62-blackfriday-bonus-08_108c04600000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\50e1ef62-blackfriday-bonus-08_108c04600000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/6b7507ca-imagem-02_100000000000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\6b7507ca-imagem-02_100000000000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/6b7507ca-imagem-02_108c04600000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\6b7507ca-imagem-02_108c04600000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/6b7507ca-imagem-02_10b405k00000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\6b7507ca-imagem-02_10b405k00000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/7580f150-finclass_100000000000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\7580f150-finclass_100000000000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/7580f150-finclass_108c04600000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\7580f150-finclass_108c04600000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/7580f150-finclass_10b405k00000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\7580f150-finclass_10b405k00000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/7d125682-blackfriday-bonus-07_100000000000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\7d125682-blackfriday-bonus-07_100000000000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/7d125682-blackfriday-bonus-07_108c04600000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\7d125682-blackfriday-bonus-07_108c04600000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/7eb289b7-anv0005-bonus-casa-v1-desk_100000000000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\7eb289b7-anv0005-bonus-casa-v1-desk_100000000000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/94ced38d-f0145-gustavo-cerbasi_10000000a20jg00j00001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\94ced38d-f0145-gustavo-cerbasi_10000000a20jg00j00001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/94ced38d-f0145-gustavo-cerbasi_10000000b40j400000501o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\94ced38d-f0145-gustavo-cerbasi_10000000b40j400000501o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/94ced38d-f0145-gustavo-cerbasi_104r08c04b08c00800001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\94ced38d-f0145-gustavo-cerbasi_104r08c04b08c00800001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/94ced38d-f0145-gustavo-cerbasi_106y0c606y0by00000301o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\94ced38d-f0145-gustavo-cerbasi_106y0c606y0by00000301o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/94ced38d-f0145-gustavo-cerbasi_109j0go08m0go00g00001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\94ced38d-f0145-gustavo-cerbasi_109j0go08m0go00g00001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/a21045a2-microsoftteams-image-5_100000000000000000001o.png
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\a21045a2-microsoftteams-image-5_100000000000000000001o.png
+Content Type: image/png
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/a21045a2-microsoftteams-image-5_108c04600000000000001o.png
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\a21045a2-microsoftteams-image-5_108c04600000000000001o.png
+Content Type: image/png
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/c8097ca7-banner-home-finclass-desk-new-v4_100000000000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\c8097ca7-banner-home-finclass-desk-new-v4_100000000000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/c8097ca7-banner-home-finclass-desk-new-v4_10000000xe14o0jx00001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\c8097ca7-banner-home-finclass-desk-new-v4_10000000xe14o0jx00001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/c8097ca7-banner-home-finclass-desk-new-v4_110m0kb0go0kb09y00001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\c8097ca7-banner-home-finclass-desk-new-v4_110m0kb0go0kb09y00001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/c8097ca7-banner-home-finclass-desk-new-v4_11hc0tl00000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\c8097ca7-banner-home-finclass-desk-new-v4_11hc0tl00000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/c8097ca7-banner-home-finclass-desk-new-v4_121714m0xc14m0jw00001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\c8097ca7-banner-home-finclass-desk-new-v4_121714m0xc14m0jw00001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/c982072c-carteira_100000000000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\c982072c-carteira_100000000000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/c982072c-carteira_108c04600000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\c982072c-carteira_108c04600000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/c982072c-carteira_10b405k00000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\c982072c-carteira_10b405k00000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/ca4989e7-f0145-1-nigro_10000000b40li00000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\ca4989e7-f0145-1-nigro_10000000b40li00000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/ca4989e7-f0145-1-nigro_10000000b40n200001e01o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\ca4989e7-f0145-1-nigro_10000000b40n200001e01o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/ca4989e7-f0145-1-nigro_104b09h04b08c00000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\ca4989e7-f0145-1-nigro_104b09h04b08c00000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/ca4989e7-f0145-1-nigro_107d0g707d0fa00000x01o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\ca4989e7-f0145-1-nigro_107d0g707d0fa00000x01o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/ca4989e7-f0145-1-nigro_108m0iy08m0go00000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\ca4989e7-f0145-1-nigro_108m0iy08m0go00000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/dd47a2a0-mock-02_100000000000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\dd47a2a0-mock-02_100000000000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/dd47a2a0-mock-02_10000000b40ln00000n01o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\dd47a2a0-mock-02_10000000b40ln00000n01o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/dd47a2a0-mock-02_104b08y04b08e00000901o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\dd47a2a0-mock-02_104b08y04b08e00000901o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/dd47a2a0-mock-02_107d0fa00000000000001o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\dd47a2a0-mock-02_107d0fa00000000000001o.jpg
+Content Type: image/jpeg
+
+Uri: https://d9hhrg4mnvzow.cloudfront.net/sl.finclass.com/anv0005-aniversario-finclass-pag/fl/dd47a2a0-mock-02_108m0hv08m0gs00000i01o.jpg
+File Name: C:\Downloaded Web Sites\sl.finclass.com\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\dd47a2a0-mock-02_108m0hv08m0gs00000i01o.jpg
+Content Type: image/jpeg
+
+Uri: https://finclass.com/favicon.png
+File Name: C:\Downloaded Web Sites\sl.finclass.com\favicon.png
+Content Type: image/png
+
+Uri: https://sl.finclass.com/anv0005-aniversario-finclass-pag/fl/?pmp=FIN-LEX-FB-AD-BFIN-20250317-PAG-ANV0005-AS-120219266469440127&utm_source=facebook&utm_campaign=[FBG]+[LAUNCH]+[CPL]+[LEAD]+-+[ANV0005]+[CADASTRO]+[PRINCIPAL]+AUTO+-++P1+-+Base+Finclass+-+AD03&utm_medium=cpc&utm_content=ANV0005+-+AD3+-+Estático+-+Linha&utm_term=FIN-LEX-FB-AD-BFIN-20250317-PAG-ANV0005-AS-120219266469440127&utm_id=120219266469400127_v2_s02&fbclid=PAZXh0bgNhZW0BMABhZGlkAasayTYABo8BppDoV9kN4iuN9S0ieWO-hWBCWkPnwkqCyJXp3QbClxZBePPRGrTb_m7LlQ_aem_4v_c-lGLj_xojS52A9v2DQ
+File Name: C:\Downloaded Web Sites\sl.finclass.com\anv0005-aniversario-finclass-pag\fl\index.htm
+Content Type: text/html
+
+Uri: https://sl.finclass.com/_ub/static/ts/786ffa188154a7a81202c5d108dc70f1e0214262.js
+File Name: C:\Downloaded Web Sites\sl.finclass.com\_ub\static\ts\786ffa188154a7a81202c5d108dc70f1e0214262.js
+Content Type: application/javascript
+
